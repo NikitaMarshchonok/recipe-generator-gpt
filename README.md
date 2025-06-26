@@ -34,7 +34,3 @@ This project is a **recipe generation model** built using a fine-tuned version o
 
 Will be available soon via a [Gradio](https://www.gradio.app/) demo interface.
 
-## 🤖 Example
-
-Input:
-
