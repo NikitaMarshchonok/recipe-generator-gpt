@@ -3,6 +3,10 @@
 This project is a **recipe generation model** built using a fine-tuned version of `distilgpt2` from Hugging Face Transformers. It takes a short input prompt and generates cooking recipes in natural language.
 
 ## 🔧 Built With
+- `distilgpt2` model from HuggingFace Transformers
+- `pandas`, `datasets`, `transformers`, `gradio`
+- Trained **locally on CPU** using MacBook Pro
+- Used **~100,000 rows** extracted from the original RecipeNLG dataset (2.5GB) and preprocessed locally
 
 
 ##  Dataset
