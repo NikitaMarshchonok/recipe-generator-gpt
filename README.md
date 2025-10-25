@@ -1,8 +1,8 @@
-# 🍳 Recipe Generator GPT
+#  Recipe Generator GPT
 
 This project is a **recipe generation model** built using a fine-tuned version of `distilgpt2` from Hugging Face Transformers. It takes a short input prompt and generates cooking recipes in natural language.
 
-## 🔧 Built With
+##  Built With
 - `distilgpt2` model from HuggingFace Transformers
 - `pandas`, `datasets`, `transformers`, `gradio`
 - Trained **locally on CPU** using MacBook Pro
