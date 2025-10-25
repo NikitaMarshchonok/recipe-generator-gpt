@@ -28,7 +28,7 @@ This project is a **recipe generation model** built using a fine-tuned version o
 -  Migrate training to **GPU (Colab / cloud)** for better results
 -  Add support for **image generation** via DALL·E / Stable Diffusion
 -  Deploy demo via **Gradio** or Hugging Face Spaces
--  Add multi-language recipe generation (e.g., 🇷🇺 Russian, 🇮🇱 Hebrew)
+-  Add multi-language recipe generation (e.g.,  Russian,  Hebrew)
 
 ##  Demo (WIP)
 
